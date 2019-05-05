@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827552653260",
+    "firebase_url": "https://lapit-chat-7c24b.firebaseio.com",
+    "project_id": "lapit-chat-7c24b",
+    "storage_bucket": "lapit-chat-7c24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827552653260:android:24b0d4797aae5b72",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_lapit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827552653260-bv0ur7h02clmvrln3opkl08ai845otsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9oRsnAtoah51PgNp5WsCLLXXBR1GOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827552653260-bv0ur7h02clmvrln3opkl08ai845otsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

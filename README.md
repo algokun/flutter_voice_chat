@@ -7,7 +7,7 @@ Firebase Voice Chat
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a amazing starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -30,4 +30,4 @@ Check out my social links..
 
 <a href = "https://twitter.com/Mohan_117" > Twitter </a>
 
-Thanks to my friend <a href = "https://twitter.com/therichiekumar"> Ashwani </a>, for the idea
+Many Thanks to my friend <a href = "https://twitter.com/therichiekumar"> Ashwani </a>, for the idea .
